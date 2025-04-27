@@ -18,9 +18,3 @@
 <p align="center">
   Module 0 Completed
 </p>
-
-## jhajss
-
-### Shell Scripting Tutorial 
-
-### Test Line
